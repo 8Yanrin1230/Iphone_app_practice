@@ -4,6 +4,7 @@
 
 三個頁面： Currency 、 Record 、 Search
 Currency: 可以取得一選擇貨幣 = 多少台幣
+
 Search: 
 1. 輸入想要計算的貨幣數量
 2. 選擇要轉換的兩個貨幣
